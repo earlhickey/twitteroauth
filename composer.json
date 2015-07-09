@@ -1,5 +1,5 @@
 {       
-    "name": "abraham/twitteroauth", 
+    "name": "earlhickey/twitteroauth", 
     "type": "library",
     "description": "The most popular PHP library for use with the Twitter OAuth REST API.",
     "keywords": ["twitter", "api", "oauth", "rest", "social", "twitter api", "twitter oauth"],
@@ -14,7 +14,7 @@
         }
     ],
     "support": {
-        "source": "https://github.com/abraham/twitteroauth",
+        "source": "https://github.com/earlhickey/twitteroauth",
         "issues": "https://github.com/abraham/twitteroauth/issues"
     },
     "require": {
@@ -28,7 +28,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Abraham\\TwitterOAuth\\": "src"
+            "Earlhickey\\TwitterOAuth\\": "src"
         }
     }
 }
